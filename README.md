@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋  soy Jonathan Marley </h1> 
 
 
-![codigo](https://github.com/JonathanMarley/Jonathan_Marley09/assets/67928648/be5fb0c9-fcc9-42a8-a9d2-a7df258cf8e5)
 
+![codigo](https://github.com/JonathanMarley/JonathanMarley/assets/67928648/0a3f76f2-ccbf-4b02-9170-2e2b97495d04)
 
 <p align="left">
   
